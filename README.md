@@ -11,14 +11,14 @@ Byte order is Little Endian.
 
 List of:
 
-* 4 Bytes   Index of filename
+* 4 Bytes   *Index of filename*
 
-* 4 Bytes   Length of filename
+* 4 Bytes   *Length of filename*
 
 List of:
 
-* x Bytes   Filename
+* x Bytes   *Filename*
 
-* 4 Bytes   Index of file
+* 4 Bytes   *Index of file*
 
-* 4 Bytes   Length of file
+* 4 Bytes   *Length of file*
