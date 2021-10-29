@@ -5,9 +5,9 @@ Extracts files contained in certain resource files (.res)
 
 Byte order is Little Endian.
 
-* 4 Bytes   Number of files contained
+* 4 Bytes   *Number of files contained*
 
-* 8 Bytes   ? (Probably some sort of signature and/or unused parts)
+* 8 Bytes   *? (Probably some sort of signature and/or unused parts)*
 
 List of:
 
