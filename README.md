@@ -1,7 +1,7 @@
 # Res-File-Unpacker
 Extracts files contained in certain resource files (.res)
 
-FILE FORMAT:
+**FILE FORMAT:**
 
 Byte order is Little Endian.
 
